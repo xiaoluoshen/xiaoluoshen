@@ -1,61 +1,62 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6B8E8E&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E6%A8%B1%E7%A9%BA;Android%E5%86%85%E6%A0%B8%E5%BC%80%E5%8F%91%E8%80%85;%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E8%80%85;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <em>潜心钻研，代码为墨，绘就数字世界之景。</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xiaoluoshen?tab=followers">
-    <img src="https://img.shields.io/github/followers/xiaoluoshen?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/xiaoluoshen?tab=repositories">
-    <img src="https://img.shields.io/badge/%E4%BB%93%E5%BA%93-10-%234A6D7C?style=flat&logo=github" alt="Repos" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=xiaoluoshen&color=blueviolet&style=flat&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="Profile Views" />
-</p>
-
----
-
-### 墨客心语 🧑‍💻
-
-> 吾乃 SaKura，代码为笔，以技术之墨，绘数字山河。沉浸于 Android 内核的深邃，探索 KernelSU 与 SUSFS 的奥秘。乐于以 TypeScript、Kotlin 构筑奇思妙想，亦精于 GitHub Actions 自动化之道。愿以所学，点亮开源之灯，与同道共勉。
-
----
-
-### 技艺精进 🛠️
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,html,css,c,cpp,rust,python,bash,linux&perline=6" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,githubactions,docker&perline=6" />
-  </a>
-</p>
-
----
-
-### 码上春秋 📊
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=xiaoluoshen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=xiaoluoshen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=SaKura&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaoluoshen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E6%A8%B1%E7%A9%BA;Android%20Kernel%20Developer;Material%20Design%20Enthusiast;Welcome%20to%20my%20Mizuki%20Style%20Profile!" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focusing-Android%20Kernel-00BFFF?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Mizuki-6B8E8E?style=for-the-badge&logo=astro&logoColor=white" />
+</p>
+
+---
+
+### 💫 关于我 | About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <p><b>👋 欢迎来到我的数字空间</b></p>
+        <p>我是一名热衷于 <b>Android 内核开发</b> 的探索者，深受 <b>Material Design 3</b> 美学启发。我喜欢将复杂的技术逻辑转化为优雅的代码艺术。</p>
+        <p>目前专注于：</p>
+        <ul>
+          <li>KernelSU & SUSFS 深度定制</li>
+          <li>MIUIX 风格应用开发</li>
+          <li>GitHub Actions 自动化构建</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=xiaoluoshen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=D4E2E2" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 荣誉殿堂 🏆
+### 🛠️ 技艺精进 | Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,c,cpp,rust,python,bash,linux,androidstudio,vscode,git,github,githubactions,docker&theme=dark&perline=8" />
+  </a>
+</p>
+
+---
+
+### 📊 码上春秋 | Statistics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xiaoluoshen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=D4E2E2" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=xiaoluoshen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF" width="49%" />
+</div>
+
+---
+
+### 🏆 荣誉殿堂 | Trophies
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=xiaoluoshen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
@@ -63,7 +64,7 @@
 
 ---
 
-### 匠心之作 📌
+### 📌 匠心之作 | Featured Projects
 
 <div align="center">
 
@@ -79,5 +80,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A6D7C,6B8E8E,D4E2E2&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%" />
 </div>
